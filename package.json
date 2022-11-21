@@ -1,0 +1,36 @@
+{
+  "name": "Obito-Uchiha",
+  "version": "1.0.0",
+  "description": "Obito Uchiha adalah Bot Telegram menggunakan rest full api dari zenzapis.xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "bot-tele"
+  ],
+  "author": "Fatih Arridho",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cfonts": "^2.9.3",
+    "chalk": "^4.1.1",
+    "chalk-animation": "^2.0.3",
+    "fs": "^0.0.1-security",
+    "moment-timezone": "^0.5.33",
+    "nodemon": "^2.0.7",
+    "node-fetch": "^2.6.1",
+    "performance-now": "^2.1.0",
+    "telegraf": "latest",
+    "telegraf-update-logger": "^1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FatihArridho"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
